@@ -12,9 +12,24 @@
 </div>
 
 <h1>
+  <div align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </div>
+                                
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+ :man_technologist: About Me : 
+
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+ - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building CRM.
+
+- :seedling: In my free time I play bg3 and watch movies
+
+- :zap: Development in Python, JavaScript.
+
+
+
