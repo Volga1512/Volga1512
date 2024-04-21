@@ -1,4 +1,3 @@
 <div id="header" align="center">
-  <img src="![image](https://github.com/Volga1512/Volga1512/assets/49171725/ba015a3a-a291-4202-bd81-ae336a5174e6)
-" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFvYWx4Z2ZkNGM2bjV5b205bHBhanY0dHBuaTNrcHRjdXNsY3ZzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 </div>
