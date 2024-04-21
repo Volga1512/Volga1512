@@ -21,15 +21,24 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- :man_technologist: About Me : 
+ 🤹‍♀️ About Me : 
 
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building CRM.
 
-- :seedling: In my free time I play bg3 and watch movies
+ - :seedling: In my free time I play bg3 and watch movies
 
-- :zap: Development in Python, JavaScript.
+ - :zap: Development in Python, JavaScript.
+
+:man_technologist: Experience and skill : 
+
+ - 🍏 Development of commercial software as manager
+ - 🍉 developer in JavaScript, Python
+ - 🍊 Building web services with REST API/WebSockets
+ - 🥦 Translations of technical documents
+
+
 
 
 
