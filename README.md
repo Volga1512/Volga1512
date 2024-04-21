@@ -10,3 +10,8 @@
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBkaWthOHdzd25lZzBtMzBqM2FhMTRjcTB0MW9yb2o5bW5ncXZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IThjAlJnD9WNO/giphy.gif"/>
+</h1>
