@@ -13,5 +13,5 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBkaWthOHdzd25lZzBtMzBqM2FhMTRjcTB0MW9yb2o5bW5ncXZmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IThjAlJnD9WNO/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno1cjAyanRkM2F4czJ3bXJsemNhaWFxMjFvMDJ5dzhzdjdibmI4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy-downsized.gif"/>
 </h1>
